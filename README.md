@@ -30,9 +30,6 @@ currently_learning:
   - System Design
 status: shipping something, most days
 ```
-
-Code first, ask questions during the postmortem.
-
 <br>
 
 ## Tech Stack
