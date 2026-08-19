@@ -37,9 +37,3 @@ status: shipping something, most days
 <img src="https://skillicons.dev/icons?i=python" height="32"/> <img src="https://skillicons.dev/icons?i=java" height="32"/> <img src="https://skillicons.dev/icons?i=javascript" height="32"/> <img src="https://skillicons.dev/icons?i=c" height="32"/> <img src="https://skillicons.dev/icons?i=cpp" height="32"/> <img src="https://skillicons.dev/icons?i=fastapi" height="32"/> <img src="https://skillicons.dev/icons?i=flask" height="32"/> <img src="https://skillicons.dev/icons?i=nodejs" height="32"/> <img src="https://skillicons.dev/icons?i=express" height="32"/> <img src="https://skillicons.dev/icons?i=react" height="32"/> <img src="https://skillicons.dev/icons?i=nextjs" height="32"/> <img src="https://skillicons.dev/icons?i=postgres" height="32"/> <img src="https://skillicons.dev/icons?i=mysql" height="32"/> <img src="https://skillicons.dev/icons?i=mongodb" height="32"/> <img src="https://skillicons.dev/icons?i=sqlite" height="32"/> <img src="https://skillicons.dev/icons?i=git" height="32"/> <img src="https://skillicons.dev/icons?i=github" height="32"/> <img src="https://skillicons.dev/icons?i=docker" height="32"/> <img src="https://skillicons.dev/icons?i=linux" height="32"/> <img src="https://skillicons.dev/icons?i=vscode" height="32"/>
 
 <br>
-
-<div align="center">
-
-⭐ Thanks for stopping by — always happy to connect and talk shop.
-
-</div>
