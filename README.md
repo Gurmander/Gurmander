@@ -10,7 +10,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Gurmander&label=Profile+Views&color=0e75b6&style=flat)](https://github.com/Gurmander)
 <a href="https://www.linkedin.com/in/gmaan/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin" /></a>
-<a href="[https://www.youtube.com/@gurmandersinghmaan9493](https://www.youtube.com/@gurmandersinghmaan9493)" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat&logo=youtube&logoColor=white" /></a>
+<a href="https://www.youtube.com/@gurmandersinghmaan9493"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat&logo=youtube&logoColor=white" /></a>
 <a href="mailto:gurmandersingmaan@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 
 </div>
