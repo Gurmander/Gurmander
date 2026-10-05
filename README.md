@@ -8,7 +8,6 @@
 
 <br>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Gurmander&label=Profile+Views&color=0e75b6&style=flat)](https://github.com/Gurmander)
 <a href="https://gurmander.github.io/portfolio/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-Visit-4A5568?style=flat&logo=googlechrome&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/gmaan/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin" /></a>
 <a href="https://www.youtube.com/@gurmandersinghmaan9493"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat&logo=youtube&logoColor=white" /></a>
